@@ -1,7 +1,19 @@
 demo
 ====
 
-- [Git](http://en.wikipedia.org/wiki/Git) ja [GitHub](http://en.wikipedia.org/wiki/Github)
+- verkkovälitteinen yhteistyö 2010-luvulla
+	- motiivi: uudelleenkäytettäviä monikäyttöisiä pieniä palasia, joiden saatavuuteen ja muokattavuuteen voi luottaa
+		- esim. jatkuva tarve merettömille kuntarajoille
+	- yhteistyön kitkan vähentäminen
+		- mm. fork ja pull request toiminnot githubissa
+	- ohjelmoijat ovat ihmisiä
+		- datan ja teknologian ymmärrettävyys
+		- developer experience
+	- globaalia
+
+- voitaisiin esimerkiksi kerätä dataa kaikista kunnista, siten että kuntakohtaisesti forkataan kansallisen agregoijan repo
+
+- [Git](http://en.wikipedia.org/wiki/Git_(software) ) ja [GitHub](http://en.wikipedia.org/wiki/Github)
 	- social coding: esim.[gulp.js-projekti](http://gulpjs.com/)
 	- www-sivut: [esim.](https://github.com/gulpjs/gulpjs.github.io)
 	- versionhallinta [esim](https://github.com/gulpjs/gulp/commits/master)
