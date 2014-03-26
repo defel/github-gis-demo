@@ -1,5 +1,7 @@
 ## Verkkovälitteinen yhteistyö 2010-luvulla
-- motiivi: uudelleenkäytettäviä monikäyttöisiä pieniä palasia, joiden saatavuuteen ja muokattavuuteen voi luottaa
+- maksimaalisen hyödyn ja energiaminimin samanaikaista tavoittelua
+	- mm. transaktiokustannusten ja ymmärtämisen työläyden vähentäminen 
+- uudelleenkäytettäviä monikäyttöisiä pieniä palasia, joiden saatavuuteen ja muokattavuuteen voi luottaa
 	- esim. jatkuva tarve merettömille kuntarajoille
 - yhteistyön kitkan vähentäminen
 	- mm. fork ja pull request toiminnot githubissa
