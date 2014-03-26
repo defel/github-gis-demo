@@ -15,6 +15,12 @@
 
 - voitaisiin esimerkiksi kerätä dataa kaikista kunnista, siten että kuntakohtaisesti forkataan kansallisen agregoijan repo
 
+- pull request 
+	- haarasta toiseen
+	- repositoryjen välillä
+	- diff
+		- [diff geojson-tiedostoille](https://github.com/blog/1772-diffable-more-customizable-maps)
+
 ## Git ja GitHub
 
 - [Git](http://en.wikipedia.org/wiki/Git_(software) )
@@ -51,9 +57,4 @@
 - properties
 	- [washingtonin karttoja](https://github.com/benbalter/dc-maps)
 
-- pull request 
-	- haarasta toiseen
-	- repositoryjen välillä
-	- diff
-		- [diff geojson-tiedostoille](https://github.com/blog/1772-diffable-more-customizable-maps)
 
