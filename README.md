@@ -1,29 +1,34 @@
-demo
-====
+## Verkkovälitteinen yhteistyö 2010-luvulla
+- motiivi: uudelleenkäytettäviä monikäyttöisiä pieniä palasia, joiden saatavuuteen ja muokattavuuteen voi luottaa
+	- esim. jatkuva tarve merettömille kuntarajoille
+- yhteistyön kitkan vähentäminen
+	- mm. fork ja pull request toiminnot githubissa
+- ohjelmoijat ovat ihmisiä
+	- datan ja teknologian ymmärrettävyys
+	- developer experience
+- globaalia
 
-- verkkovälitteinen yhteistyö 2010-luvulla
-	- motiivi: uudelleenkäytettäviä monikäyttöisiä pieniä palasia, joiden saatavuuteen ja muokattavuuteen voi luottaa
-		- esim. jatkuva tarve merettömille kuntarajoille
-	- yhteistyön kitkan vähentäminen
-		- mm. fork ja pull request toiminnot githubissa
-	- ohjelmoijat ovat ihmisiä
-		- datan ja teknologian ymmärrettävyys
-		- developer experience
-	- globaalia
+### koteloitujen työsuorituksien yhdistelyä
+	
+- [github flow](http://theodi.github.io/presentations/2013-09-okcon-open-data-flow.html#/github-flow)
+- [frictionless data](http://data.okfn.org/)
 
 - voitaisiin esimerkiksi kerätä dataa kaikista kunnista, siten että kuntakohtaisesti forkataan kansallisen agregoijan repo
 
-- [Git](http://en.wikipedia.org/wiki/Git_(software) ) ja [GitHub](http://en.wikipedia.org/wiki/Github)
-	- social coding: esim.[gulp.js-projekti](http://gulpjs.com/)
-	- www-sivut: [esim.](https://github.com/gulpjs/gulpjs.github.io)
-	- versionhallinta [esim](https://github.com/gulpjs/gulp/commits/master)
-	- issues [esim.](https://github.com/gulpjs/gulp/issues?state=open)
-	- graafiset käyttöliittymät [esim.](http://mac.github.com/)
-	- tiedostojen esikatselu
-		- esim. markdown tekstille [api-standards](https://github.com/WhiteHouse/api-standards)
-- open data flow
-	- [github flow](http://theodi.github.io/presentations/2013-09-okcon-open-data-flow.html#/github-flow)
-	- [frictionless data](http://data.okfn.org/)
+## Git ja GitHub
+
+- [Git](http://en.wikipedia.org/wiki/Git_(software) )
+- [GitHub](http://en.wikipedia.org/wiki/Github)
+
+- social coding: esim.[gulp.js-projekti](http://gulpjs.com/)
+- www-sivut: [esim.](https://github.com/gulpjs/gulpjs.github.io)
+- versionhallinta [esim](https://github.com/gulpjs/gulp/commits/master)
+- issues [esim.](https://github.com/gulpjs/gulp/issues?state=open)
+- graafiset käyttöliittymät [esim.](http://mac.github.com/)
+- tiedostojen esikatselu
+	- esim. markdown tekstille [api-standards](https://github.com/WhiteHouse/api-standards)
+
+## Nettikehittäjien paikkatieto
 
 - [GeoJSON](http://geojson.org/)
 	- [JSON](http://en.wikipedia.org/wiki/Json) alunperin JavaScriptin data-tyyppi
@@ -33,6 +38,8 @@ demo
 - [leaflet.js](http://leafletjs.com/)
 - [geojson.io-palvelu](http://geojson.io/)
 	- [lähdekoodi](https://github.com/mapbox/geojson.io)
+
+## Demot
 
 - example files
 	- [Point](shapes/point.geojson)
